@@ -1,0 +1,17 @@
+{
+  "name": "tcc",
+  "description": "",
+  "main": "",
+  "authors": [
+    "José de Arimatéia Neves Junior"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
